@@ -42,7 +42,7 @@ Documentation describing the general architecture, examples of how to make chang
 [MIT](LICENSE)
 
 <!-- prettier-ignore-start -->
-[deephealth-annotate]: https://umb-deephealth.github.io/deephealth-annotate/
+[deephealth-annotate]: https://kristinyanah.github.io/deephealth.github.io/
 [all-contributors]: https://github.com/kentcdodds/all-contributors
 [contributing-md]: https://github.com/umb-deephealth/deephealth-annotate/blob/main/CONTRIBUTING/CONTRIBUTING.md
 [deephealth-paper]: https://arxiv.org/pdf/1912.11027.pdf
