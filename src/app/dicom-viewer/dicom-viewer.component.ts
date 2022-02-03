@@ -576,7 +576,7 @@ export class DICOMViewerComponent implements OnInit {
 
 
     var base64 = tob64(roi.buffer);
-    this.http.post<any>('http://127.0.0.1:5000/image_api', { image_64: base64 }).subscribe(data => {
+    this.http.post<any>('kristinyanah.github.io/deephealth.github.io/image_api', { image_64: base64 }).subscribe(data => {
         console.log(data.base64_img)
     })
 }
